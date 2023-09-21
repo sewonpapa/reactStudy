@@ -1,8 +1,8 @@
 import './App.css';
-import Header from './module/Header.js';
-import DayList from './module/DayList.js';
-import Day from './module/Day.js';
-import EmptyPages from './module/EmptyPages.js';
+import Header from './module/Header';
+import DayList from './module/DayList';
+import Day from './module/Day';
+import EmptyPages from './module/EmptyPages';
 import CreateWord from './module/CreateWord';
 import CreateDay from './module/CreateDay';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
